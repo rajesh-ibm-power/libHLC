@@ -5,4 +5,4 @@ arch:
   - ppc64le
 language: c++
 script:
-  - make -j
+  - make install
